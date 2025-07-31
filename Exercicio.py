@@ -1,5 +1,5 @@
 class Carros: #Aqui estamos criando uma class ( molde ) para ajudar na criação do nosso objeto
-    def __init__(self, Modelo, Ano): #Criando um método para a nossa classe
+    def __init__(self, Modelo, Ano): #Criando um método construtivo para a nossa classe
        
         self.Modelo = Modelo #atributo time
         self.Ano = Ano #atributo CPF
